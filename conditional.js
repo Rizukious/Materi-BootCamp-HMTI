@@ -4,5 +4,5 @@ if (1 != 1){
 	console.log('tapi 1 lebih dari 0');//kondisi kedua
 } else{
 	console.log('ambil semua bro')//kondisi terakhir
-	console.log('broooo');
+	console.log('aaahsimmmm');
 }
